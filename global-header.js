@@ -6,9 +6,10 @@ document.addEventListener("DOMContentLoaded", function() {
                 <a href="https://github.io">🚀 Portfolio</a>
             </div>
             <nav class="header-nav">
-                <a href="https://github.ioproject-one">Project One</a>
-                <a href="https://github.ioproject-two">Project Two</a>
-                <a href="https://github.ioproject-three">Project Three</a>
+                <a href=" https://magicstreak.github.io/CBMW-walk-scheduler/">Programme Scheduler</a>
+                <a href="https://magicstreak.github.io/programme-builder/">Programme Builder</a>
+                <a href="https://magicstreak.github.io/CBMW-Programme-Planner//">Walk Route Management</a>
+                <a href="https://magicstreak.github.io/postwalk-stats/">Post Walk Stats</a>
             </nav>
         </header>
     `;
