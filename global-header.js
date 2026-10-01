@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const headerHTML = `
         <header class="global-site-header">
             <div class="header-logo">
-                <a href="https://github.io">🚀 Portfolio</a>
+                 <a href="https://github.io">✨ magicstreak</a>
             </div>
             <nav class="header-nav">
                 <a href=" https://magicstreak.github.io/CBMW-walk-scheduler/">Programme Scheduler</a>
